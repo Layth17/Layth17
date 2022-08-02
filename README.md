@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Layth17
+- 👋 Hi, I’m Layth.
 - 👀 I’m interested in learning new ways to apply computer science in medicine.
 - 🌱 I’m currently learning bioinformatics and plan to learn neuroscience.
 - 💞️ I’m looking to collaborate with passionate people.
